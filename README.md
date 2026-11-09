@@ -2,6 +2,6 @@ Hello I am **Jonathan Trevino**
 
 I'm a software engineer that enjoys spending the time to architect solutions to my own problems using Next.js, TypeScript, Golang, and AWS. 
 
-I started by building webportfolios.dev, a site that had 3,000 monthly visitors searching for portfolio inspiration.
+I built building webportfolios.dev, a site that had 3,000 monthly visitors searching for portfolio inspiration.
 
 Now I am building resumes-cli a more sensible way to handle resumes.
