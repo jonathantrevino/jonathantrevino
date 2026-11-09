@@ -5,5 +5,3 @@ I'm a software engineer that enjoys spending the time to architect solutions to 
 I started by building webportfolios.dev, a site that had 3,000 monthly visitors searching for portfolio inspiration.
 
 Now I am building [roles.today](https://www.roles.today) a CRM for early career individuals to job hunt and grow professional relationships.
-
-Early on I struggled with inspiration for my own portfolio [(jonthantrevino.com)](https://www.jonathantrevino.com) and now I am job hunting.
