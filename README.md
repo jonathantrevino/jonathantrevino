@@ -4,4 +4,4 @@ I'm a software engineer that enjoys spending the time to architect solutions to 
 
 I built webportfolios.dev, a site that had 3,000 monthly visitors searching for portfolio inspiration.
 
-Now I am building resumes-cli a more sensible way to handle resumes.
+Now I am building resumes-cli, a cli for version controlling resumes
