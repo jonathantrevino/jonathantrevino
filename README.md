@@ -1,4 +1,4 @@
-Hello, I'm **Jonathan Trevino**
+Hello, I'm **Jonathan Trevino** 💰
 
 I'm a software engineer working with Next.js, TypeScript, Go, and AWS.
 
