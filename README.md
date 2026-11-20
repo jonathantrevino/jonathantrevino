@@ -9,7 +9,7 @@ I build web and cli apps that solve problems I run into, and I make them free fo
 
 ## ☁️ AWS
 
-After realizing how much I enjoy architecting solutions in AWS, I started working toward AWS certifications. My projects are where I put that knowledge into practice: whenever I learn a new service, I find a way to use it in something I'm building, and I define the infrastructure with Terraform.
+After realizing how much I enjoy architecting solutions in AWS, I started working toward AWS certifications. My projects are where I put that knowledge into practice: whenever I learn a new service, I find a way to use it in something I'm building, and I define the **infrastructure with Terraform**.
 
 **Certifications**
 - AWS Certified Solutions Architect – Associate
